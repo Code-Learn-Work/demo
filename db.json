@@ -1,4 +1,6 @@
 {
+	"posts":[
+		{
 	"pincode":"560066"
 	"transMessage":"SUCCESS"
 	"dealerDetails":
@@ -20,4 +22,7 @@
    ]
 	"source":"BOTS"
 	"transStatus":"SUCCESS"
+}
+
+	]
 }
