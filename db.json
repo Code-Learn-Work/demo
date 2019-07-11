@@ -1,24 +1,5 @@
 {
 	"posts":[
-		{
-			"dealerDetails":[{
-				"dealerName":"  A R Mobiles",
-				"dealerAddress":"dshtrjdjyfuf",
-				"dealerId":"DIS_121465",
-				"dealerPhoneNumber":"+919743515498",
-				"dealerStatus":"Initial",
-			},
-			{
-				"dealerName":"PASSION TRADE ENTERPRISES",
-				"dealerAddress":"SHOP# 1 669 WHITEFIELD MAIN ROAD OPP CHURCH WHITEFIELD",
-				"dealerId":"DIS_126193",
-				"dealerPhoneNumber":"",
-				"dealerStatus":"Active",
-			}],
-			"source":"BOTS",
-			"pincode" : "560066",
-			"transMessage" : "SUCCESS",
-			"transStatus":"SUCCESS"
-		}
+		{"dealerDetails":[{"dealerName":"  A R Mobiles","dealerAddress":"dshtrjdjyfuf","dealerId":"DIS_121465","dealerPhoneNumber":"+919743515498","dealerStatus":"Initial"},{"dealerName":"PASSION TRADE ENTERPRISES","dealerAddress":"SHOP# 1 669 WHITEFIELD MAIN ROAD OPP CHURCH WHITEFIELD","dealerId":"DIS_126193","dealerPhoneNumber":"","dealerStatus":"Active",}],"source":"BOTS","pincode" : "560066","transMessage" : "SUCCESS","transStatus":"SUCCESS"}
 	]
 }
